@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sai Satya Pavan Pandu 👋</h1>
-<h3 align="center">Senior Data Engineer → AI Engineer | Data Platforms · LLM Apps & Evaluation | Dallas, TX</h3>
+<h3 align="center">Senior Devops Engineer → AI Engineer | Data Platforms · LLM Apps & Evaluation | Dallas, TX</h3>
 
 <p align="center">
   <a href="https://huggingface.co/saisatyapavanpanduvanka"><img src="https://img.shields.io/badge/Hugging%20Face-saisatyapavanpanduvanka-yellow?logo=huggingface&logoColor=black" alt="Hugging Face"></a>
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 **Senior Data Engineer at Southwest Airlines** — previously Data Engineer at Credit Acceptance
+- 🏢 **Senior Devops Engineer at Southwest Airlines** — previously Data Engineer at Credit Acceptance
 - 🔭 Building **data platforms** (Snowflake · dbt · Airflow · AWS) and **LLM applications & evaluation (RLHF)**
 - 🎓 M.S. in Computer Information & Science, University of North Texas
 - 🏅 **AWS Certified Data Engineer – Associate (2025)**

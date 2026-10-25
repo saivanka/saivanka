@@ -3,9 +3,6 @@
 ### DevOps Engineer | AWS · Kubernetes · Terraform · Docker | CI/CD — Jenkins, GitHub Actions, Argo CD | Dallas, TX
 
 I build and run cloud infrastructure end to end — CI/CD pipelines, infrastructure as code, containers, and observability — with a data engineering core and hands-on LLM application work.
-
-- 🔭 **DevOps Engineer at Southwest Airlines** — 15+ CI/CD pipelines, 40% faster deployments, 30+ AWS resources managed with Terraform, 10+ applications containerized
-- ☁️ **AWS Certified Data Engineer – Associate (2025)** · currently preparing for **AWS Certified DevOps Engineer – Professional (DOP-C02)**
 - 🎓 M.S., Computer Information & Science — University of North Texas
 - 📫 [LinkedIn](https://www.linkedin.com/in/ssvanka/) · [Hugging Face](https://huggingface.co/saisatyapavanpanduvanka) · [Kaggle](https://www.kaggle.com/datasets/saivanka/gas-prices-weekly)
 

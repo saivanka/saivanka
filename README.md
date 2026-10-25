@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://huggingface.co/saisatyapavanpanduvanka"><img src="https://img.shields.io/badge/Hugging%20Face-saisatyapavanpanduvanka-yellow?logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="mailto:saipavanbuilds@gmail.com"><img src="https://img.shields.io/badge/Email-saipavanbuilds%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:pavansaibuilds@gmail.com"><img src="https://img.shields.io/badge/Email-saipavanbuilds%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Dallas%2C%20TX-blue" alt="Dallas, TX">
   <img src="https://komarev.com/ghpvc/?username=saivanka&color=0e75b6&style=flat" alt="Profile views">
 </p>
@@ -17,7 +17,7 @@
 - 🎓 M.S. in Computer Information & Science, University of North Texas
 - 🏅 **AWS Certified Data Engineer – Associate (2025)**
 - 🌱 Currently focused on AI-ready data architecture — clean, documented pipelines that AI agents can query without hallucination
-- 📫 Reach me at **saipavanbuilds@gmail.com**
+- 📫 Reach me at **pavansaibuilds@gmail.com**
 
 ---
 
